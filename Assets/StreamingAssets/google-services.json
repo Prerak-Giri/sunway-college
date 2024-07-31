@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "242966344400",
+    "project_id": "sunway-test-project",
+    "storage_bucket": "sunway-test-project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:242966344400:android:6740f85660e1099bf264d5",
+        "android_client_info": {
+          "package_name": "com.DefaultCompany.sunwayproject"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsU3kKU6T4FUV67fs3VVCL52IdSvu4ZJU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
